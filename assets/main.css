@@ -142,8 +142,8 @@ Grid
   box-sizing: border-box;
 }
 body {
-  background-color: #0d080e /*#5E5E5E*/;
-  background-image: url("img/sunset.jpeg");
+  background-color: #151e25; /*#5E5E5E*/
+  background-image: url("img/storm.jpeg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top;
